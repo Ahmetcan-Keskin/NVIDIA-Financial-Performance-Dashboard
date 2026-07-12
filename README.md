@@ -27,7 +27,7 @@ Power BI dashboard analyzing NVIDIA's financial performance using annual financi
 
 ### Profitability Analysis
 
-![Profitability](Screenshots/Profitability_Analysis.png)
+![Profitability](https://github.com/Ahmetcan-Keskin/NVIDIA-Financial-Performance-Dashboard/blob/main/Profitability%20Analysis.png?raw=true)
 
 ### Balance Sheet Analysis
 
