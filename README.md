@@ -39,4 +39,4 @@ Power BI dashboard analyzing NVIDIA's financial performance using annual financi
 
 ### Financial Ratios Analysis
 
-![Ratios](Screenshots/Financial_Ratios_Analysis.png)
+![Ratios](https://github.com/Ahmetcan-Keskin/NVIDIA-Financial-Performance-Dashboard/blob/main/Financial%20Ratios%20Analysis.png?raw=true)
