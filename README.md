@@ -23,7 +23,7 @@ Power BI dashboard analyzing NVIDIA's financial performance using annual financi
 
 ### Executive Summary
 
-![Executive Summary](https://github.com/Ahmetcan-Keskin/NVIDIA-Financial-Performance-Dashboard/blob/main/Balance%20Sheet%20Analysis.png?raw=true)
+![Executive Summary](https://github.com/Ahmetcan-Keskin/NVIDIA-Financial-Performance-Dashboard/blob/main/Executive%20Summary.png?raw=true)
 
 ### Profitability Analysis
 
@@ -31,7 +31,7 @@ Power BI dashboard analyzing NVIDIA's financial performance using annual financi
 
 ### Balance Sheet Analysis
 
-![Balance Sheet](Screenshots/Balance_Sheet_Analysis.png)
+![Balance Sheet](https://github.com/Ahmetcan-Keskin/NVIDIA-Financial-Performance-Dashboard/blob/main/Executive%20Summary.png?raw=true)
 
 ### Revenue & Growth Analysis
 
