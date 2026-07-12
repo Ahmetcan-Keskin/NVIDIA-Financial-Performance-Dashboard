@@ -11,6 +11,14 @@ Power BI dashboard analyzing NVIDIA's financial performance using annual financi
 - Profitability Analysis
 - Balance Sheet Analysis
 - Financial Ratio Analysis
+  
+ ## Key Highlights
+
+- Built with Power BI and DAX
+- Designed a star schema data model
+- Created financial KPIs and ratio analysis
+- Developed interactive dashboards with yearly filtering
+- Analyzed revenue, profitability, and financial health indicators
 
 ## Tools Used
 
