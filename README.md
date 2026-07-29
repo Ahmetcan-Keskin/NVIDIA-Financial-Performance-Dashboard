@@ -31,20 +31,20 @@ Power BI dashboard analyzing NVIDIA's financial performance using annual financi
 
 ### Executive Summary
 
-![Executive Summary](https://github.com/Ahmetcan-Keskin/NVIDIA-Financial-Performance-Dashboard/blob/main/Executive%20Summary.png?raw=true)
+![Executive Summary](https://github.com/Ahmetcan-Keskin/NVIDIA-Financial-Performance-Dashboard/blob/main/Dashboard%20Images/Executive%20Summary.png?raw=true)
 
 ### Profitability Analysis
 
-![Profitability](https://github.com/Ahmetcan-Keskin/NVIDIA-Financial-Performance-Dashboard/blob/main/Profitability%20Analysis.png?raw=true)
+![Profitability](https://github.com/Ahmetcan-Keskin/NVIDIA-Financial-Performance-Dashboard/blob/main/Dashboard%20Images/Profitability%20Analysis.png?raw=true)
 
 ### Balance Sheet Analysis
 
-![Balance Sheet](https://github.com/Ahmetcan-Keskin/NVIDIA-Financial-Performance-Dashboard/blob/main/Balance%20Sheet%20Analysis.png?raw=true)
+![Balance Sheet](https://github.com/Ahmetcan-Keskin/NVIDIA-Financial-Performance-Dashboard/blob/main/Dashboard%20Images/Balance%20Sheet%20Analysis.png?raw=true)
 
 ### Revenue & Growth Analysis
 
-![Revenue](https://github.com/Ahmetcan-Keskin/NVIDIA-Financial-Performance-Dashboard/blob/main/Revenue%20&%20Growth%20Analysis.png?raw=true)
+![Revenue](https://github.com/Ahmetcan-Keskin/NVIDIA-Financial-Performance-Dashboard/blob/main/Dashboard%20Images/Revenue%20&%20Growth%20Analysis.png?raw=true)
 
 ### Financial Ratios Analysis
 
-![Ratios](https://github.com/Ahmetcan-Keskin/NVIDIA-Financial-Performance-Dashboard/blob/main/Financial%20Ratios%20Analysis.png?raw=true)
+![Ratios](https://github.com/Ahmetcan-Keskin/NVIDIA-Financial-Performance-Dashboard/blob/main/Dashboard%20Images/Financial%20Ratios%20Analysis.png?raw=true)
